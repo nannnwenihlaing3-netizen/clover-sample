@@ -1,0 +1,3 @@
+0 燃えるゴミ
+1 燃えないゴミ
+2 plastic bottle
